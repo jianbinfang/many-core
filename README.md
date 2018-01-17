@@ -4,7 +4,7 @@ many-core programming, performance analysis and modeling
 
   * [Heterogeneous Streaming](#heterogeneous-streaming)
      * [Papers](#papers)
-  * [Parallelism](#parallelism)
+  * [Matrix Factorization Algorithms](#matrix-factorization-algorithm)
      * [Papers](#papers-1)
 
 
@@ -14,5 +14,7 @@ many-core programming, performance analysis and modeling
 2. **CCGrid'14**-[Performance models for CPU-GPU data transfers](http://ieeexplore.ieee.org/document/6846436/)
 3. **PPL**-[Evaluating Multiple Streams on Heterogeneous Platforms](https://www.worldscientific.com/doi/pdf/10.1142/S0129626416400028)
 
-## Parallelism
+## Matrix Factorization Algorithms
+1. Computer-[Matrix Factorization Techniques for Recommender Systems](http://dx.doi.org/10.1109/MC.2009.263)
+
 
