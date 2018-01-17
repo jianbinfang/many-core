@@ -4,8 +4,9 @@ many-core programming, performance analysis and modeling
 
   * [Heterogeneous Streaming](#heterogeneous-streaming)
   * [Matrix Factorization Algorithms](#matrix-factorization-algorithms)
-  * [Sparse Linear Algorithms](#sparse-linear-algorithms)
-  * [Performance Analysis and Modeling](#performance-analysis-and-modeling)
+  * [Sparse Linear Algorithms](#sparse-linear-algebra-algorithms)
+  * [Performance Analysis and Modeliing](#performance-analysis-and-modeling)
+  * [Data Parallel Programming Models](#data-parallel-programming-models)
 
 
 ## Heterogeneous Streaming
@@ -17,7 +18,7 @@ many-core programming, performance analysis and modeling
 ## Matrix Factorization Algorithms
 1. **Computer**--[Matrix Factorization Techniques for Recommender Systems](http://dx.doi.org/10.1109/MC.2009.263)
 
-## Sparse Linear Algorihtms
+## Sparse Linear Algebra Algorihtms
 1. **CMU-TR**--[Segmented Operations for Sparse Matrix Computation on Vector Multiprocessors](http://www.cs.cmu.edu/~scandal/papers/CMU-CS-93-173.html)
 2. **ICS'15**--[CSR5: An Efficient Storage Format for Cross-Platform Sparse Matrix-Vector Multiplication](https://doi.org/10.1145/2751205.2751209)
 
@@ -26,3 +27,6 @@ many-core programming, performance analysis and modeling
 2. **SC'08**--[Benchmarking GPUs to tune dense linear algebra](https://dl.acm.org/citation.cfm?id=1413402&CFID=1028025465&CFTOKEN=63075180)
 3. **HPDC'13**--[Modeling communication in cache-coherent SMP systems: a case-study with Xeon Phi](https://doi.org/10.1145/2462902.2462916)
 4. **ICPE'14**--[Test-driving Intel Xeon Phi](https://doi.org/10.1145/2568088.2576799)
+
+## Data Parallel Programming Models
+1. **ICPP'11**--[A Comprehensive Performance Comparison of CUDA and OpenCL](https://doi.org/10.1109/ICPP.2011.45)
