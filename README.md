@@ -2,7 +2,6 @@
 many-core programming, performance analysis and modeling
 ----
 
-  * [Awesome-GPU](#awesome-gpu)
   * [Resources Management](#resources-management)
      * [Papers](#papers)
   * [Parallelism](#parallelism)
