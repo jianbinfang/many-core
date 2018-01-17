@@ -12,7 +12,7 @@ many-core programming, performance analysis and modeling
 
 ## Resources Management
 
-%### Papers
+### Papers
 
 1. **ASPLOS'17**-[Locality-Aware CTA Clustering for Modern GPUs](http://dl.acm.org/citation.cfm?id=3037709)
 2. **ASPLOS'17**-[Dynamic Resource Management for Efficient Utilization of Multitasking GPUs](http://dl.acm.org/citation.cfm?id=3037707)
@@ -21,3 +21,4 @@ many-core programming, performance analysis and modeling
 
 ## Parallelism
 
+### Papers
