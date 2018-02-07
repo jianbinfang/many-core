@@ -7,6 +7,7 @@ many-core programming, performance analysis and modeling
   * [Sparse Linear Algorithms](#sparse-linear-algebra-algorithms)
   * [Performance Analysis and Modeliing](#performance-analysis-and-modeling)
   * [Data Parallel Programming Models](#data-parallel-programming-models)
+  * [Compiler Implementation and Optimization](#compiler-implementation-and-optimization)
 
 
 ## Heterogeneous Streaming
@@ -30,3 +31,6 @@ many-core programming, performance analysis and modeling
 
 ## Data Parallel Programming Models
 1. **ICPP'11**--[A Comprehensive Performance Comparison of CUDA and OpenCL](https://doi.org/10.1109/ICPP.2011.45)
+
+## Compiler Implementation and Optimization
+1. **Survey**--[A Survey on Compiler Autotuning using Machine Learning](https://arxiv.org/pdf/1801.04405.pdf)
