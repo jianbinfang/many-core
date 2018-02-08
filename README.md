@@ -5,7 +5,7 @@ many-core programming, performance analysis and modeling
   * [Heterogeneous Streaming](#heterogeneous-streaming)
   * [Matrix Factorization Algorithms](#matrix-factorization-algorithms)
   * [Sparse Linear Algorithms](#sparse-linear-algebra-algorithms)
-  * [Performance Analysis and Modeliing](#performance-analysis-and-modeling)
+  * [Performance Analysis and Modeling](#performance-analysis-and-modeling)
   * [Data Parallel Programming Models](#data-parallel-programming-models)
   * [Compiler Implementation and Optimization](#compiler-implementation-and-optimization)
 
